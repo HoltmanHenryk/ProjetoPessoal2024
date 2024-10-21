@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d3a416b2-49ca-495b-bf92-ae036b528472}">
+		<property name="assetPath">
+			<value>mus_menu_3.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>146.72979591836736</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3823d7a5-7a73-43b1-8387-d900fc75c780}</destination>
+		</relationship>
+	</object>
+</objects>

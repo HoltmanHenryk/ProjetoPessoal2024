@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8352340b-fe51-42d9-88eb-9021efe61630}">
+		<property name="assetPath">
+			<value>tick_tock.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.84879166666666672</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3823d7a5-7a73-43b1-8387-d900fc75c780}</destination>
+		</relationship>
+	</object>
+</objects>

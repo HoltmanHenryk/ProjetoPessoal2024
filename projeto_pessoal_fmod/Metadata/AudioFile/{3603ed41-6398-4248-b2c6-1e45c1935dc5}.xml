@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3603ed41-6398-4248-b2c6-1e45c1935dc5}">
+		<property name="assetPath">
+			<value>borabir.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>83.461224489795924</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3823d7a5-7a73-43b1-8387-d900fc75c780}</destination>
+		</relationship>
+	</object>
+</objects>
